@@ -11,5 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>baitaptuan2.mavenproject1.Mavenproject1</exec.mainClass>
     </properties>
-    <name>baitap_tuan3</name>
+    <name>baitap_javaswing</name>
 </project>
